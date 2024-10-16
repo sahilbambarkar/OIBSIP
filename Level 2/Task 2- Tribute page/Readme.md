@@ -2,13 +2,12 @@
 
 # 🌸 Welcome to the Tribute Page 💐
 
-<p>Simple Tribute Page for COVID warriors written in HTML, CSS, and JavaScript. Get hands-on practice and create a one-page landing website.</p>
+<p>Simple Tribute Page for COVID warriors written in HTML, CSS. Get hands-on practice and create a one-page landing website.</p>
 
 ### 🛠️ Used Technologies
 <ul>
   <li>🌐 HTML5</li>
   <li>🎨 CSS3</li>
-  <li>💻 JavaScript</li>
 </ul>
 
 ### 🎯 Use of this Project

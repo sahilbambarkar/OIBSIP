@@ -1,15 +1,15 @@
 
 # 🌟 Level 2 Internship Tasks at OIBSIP Infotech
-```markdown
+
 ## Tasks Dropdown Menu
 
 Click on the tasks below to navigate directly to each section:
 
+- [Calculator App 🧮](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%201-%20CALCULATOR) <br>
 - [Tribute Page 💐](#tribute-page) <br>
-- [Calculator App 🧮](#https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%201-%20CALCULATOR) <br>
 - [TODO App with Redux and React JS 📝](#todo-app-with-redux-and-react-js)<br>
 - [React + Firebase Authentication App 🔐](#react--firebase-authentication-app)<br>
-```
+
 
 ## 🧮 Calculator App
 

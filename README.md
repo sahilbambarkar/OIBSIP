@@ -6,7 +6,7 @@
 Click on the tasks below to navigate directly to each section:
 
 - [Calculator App 🧮](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%201-%20CALCULATOR) <br>
-- [Tribute Page 💐](#tribute-page) <br>
+- [Tribute Page 💐](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%202-%20Tribute%20page) <br>
 - [TODO App with Redux and React JS 📝](#todo-app-with-redux-and-react-js)<br>
 - [React + Firebase Authentication App 🔐](#react--firebase-authentication-app)<br>
 
@@ -120,8 +120,8 @@ A simple authentication app using **React** and **Firebase** to demonstrate user
 
 These tasks have provided invaluable experience in web development and have enhanced my skills in various technologies. I look forward to continuing my learning journey at OIBSIP Infotech!
 
----
 
-Keep Coding! 💪✨
-```
+
+##Keep Coding! 💪✨
+
 

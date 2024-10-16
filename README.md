@@ -1,5 +1,3 @@
-Certainly! Below is the complete code for a `README.md` file that includes a structured dropdown menu and sections for each of your Level 2 tasks at OIBSIP Infotech. You can copy and paste this directly into your `README.md` file.
-
 ```markdown
 # 🌟 Level 2 Internship Tasks at OIBSIP Infotech
 
@@ -126,10 +124,3 @@ These tasks have provided invaluable experience in web development and have enha
 Keep Coding! 💪✨
 ```
 
-### Instructions for Use:
-
-1. Copy the above code into a file named `README.md`.
-2. Ensure that you have the correct links for your GitHub repositories and demo links.
-3. Adjust any text or details as necessary to better reflect your experience or preferences.
-
-This `README.md` file is structured clearly with sections for each task, making it easy for readers to navigate and understand your work during your internship!

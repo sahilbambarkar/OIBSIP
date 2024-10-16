@@ -24,7 +24,7 @@ To get started with the project, clone this repository:
 
 ```bash
 git clone https://github.com/sahilbambarkar/OIBSIP.git
-cd todo-app
+cd Task 3- React-Redux-Todo-App
 ```
 
 ### Install Dependencies

@@ -19,8 +19,9 @@ A simple authentication app using **React** and **Firebase** to demonstrate user
 
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/sahilbambarkar/react-firebase-auth-app.git
-
+   git clone https://github.com/sahilbambarkar/OIBSIP.git
+   cd Task 4- React_Firebase_Auth
+   
 2. **Install Dependencies**:
 ```bash
   npm install
@@ -44,7 +45,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 5. **Learnings**:
 
 📖How to integrate Firebase Authentication in a React app.
+
 📖Using Context API to manage global state.
+
 📖Creating protected routes to restrict access based on user authentication.
 
 

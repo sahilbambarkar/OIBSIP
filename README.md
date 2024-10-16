@@ -1,16 +1,32 @@
-```markdown
-# 🌟 Level 2 Internship Tasks at OIBSIP Infotech
 
+# 🌟 Level 2 Internship Tasks at OIBSIP Infotech
+```markdown
 ## Tasks Dropdown Menu
 
 Click on the tasks below to navigate directly to each section:
 
-- [Tribute Page 💐](#tribute-page)
-- [Calculator App 🧮](#https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%201-%20CALCULATOR)
-- [TODO App with Redux and React JS 📝](#todo-app-with-redux-and-react-js)
-- [React + Firebase Authentication App 🔐](#react--firebase-authentication-app)
+- [Tribute Page 💐](#tribute-page) <br>
+- [Calculator App 🧮](# Calculator app) <br>
+- [TODO App with Redux and React JS 📝](#todo-app-with-redux-and-react-js)<br>
+- [React + Firebase Authentication App 🔐](#react--firebase-authentication-app)<br>
+```
+
+## 🧮 Calculator App
+
+A simple calculator app built with HTML, CSS, and JavaScript.
+
+### 🎯 Steps to Use:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sahilbambarkar/calculator.git
+   ```
+2. Navigate to the directory.
+3. Open `index.html` in your web browser.
+4. Start calculating! 🎉
 
 ---
+
+
 
 ## 🌸 Tribute Page 💐
 
@@ -30,22 +46,7 @@ A simple tribute page dedicated to COVID warriors, developed using HTML, CSS, an
 3. Open `index.html` in your web browser.
 4. Explore the webpage! 👀
 
----
 
-## 🧮 Calculator App
-
-A simple calculator app built with HTML, CSS, and JavaScript.
-
-### 🎯 Steps to Use:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sahilbambarkar/calculator.git
-   ```
-2. Navigate to the directory.
-3. Open `index.html` in your web browser.
-4. Start calculating! 🎉
-
----
 
 ## 📝 TODO App with Redux and React JS
 

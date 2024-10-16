@@ -21,7 +21,9 @@
 
 1. **Download or Clone the Repository**:
    ```bash
-   git clone https://github.com/sahilbambarkar/calculator.git
+   git clone https://github.com/sahilbambarkar/OIBSIP.git
+   cd Task 1- CALCULATOR
+
    ```
 
 2. **Go to the Directory**:

@@ -19,7 +19,8 @@
 
 1. **Download or Clone the Repository**:
    ```bash
-   git clone https://github.com/sahilbambarkar/tribute-page.git
+   git clone https://github.com/sahilbambarkar/OIBSIP.git
+   cd Task 2- Tribute page
    ```
 
 2. **Go to the Directory**:

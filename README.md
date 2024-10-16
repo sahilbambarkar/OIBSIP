@@ -7,7 +7,7 @@ Click on the tasks below to navigate directly to each section:
 
 - [Calculator App 🧮](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%201-%20CALCULATOR) <br>
 - [Tribute Page 💐](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%202-%20Tribute%20page) <br>
-- [TODO App with Redux and React JS 📝](#todo-app-with-redux-and-react-js)<br>
+- [TODO App with Redux and React JS 📝](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%203-%20React-Redux-Todo-App)<br>
 - [React + Firebase Authentication App 🔐](#react--firebase-authentication-app)<br>
 
 

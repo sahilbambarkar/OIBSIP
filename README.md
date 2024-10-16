@@ -41,7 +41,8 @@ A simple tribute page dedicated to COVID warriors, developed using HTML, CSS.
 ### 🎯 Steps to Use:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sahilbambarkar/tribute-page.git
+   git clone https://github.com/sahilbambarkar/OIBSIP.git
+   cd Task 2- Tribute page
    ```
 2. Navigate to the directory.
 3. Open `index.html` in your web browser.

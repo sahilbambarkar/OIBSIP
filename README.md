@@ -67,8 +67,8 @@ This repository contains the code for a **Todo App** built using **React** and *
 ### 📦 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sahilbambarkar/todo-app.git
-   cd todo-app
+   git clone https://github.com/sahilbambarkar/OIBSIP.git
+   cd Task 3- React-Redux-Todo-App
    ```
 2. Install dependencies:
    ```bash

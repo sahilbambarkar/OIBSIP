@@ -1,14 +1,14 @@
 
 # 🌟 Level 2 Internship Tasks at OIBSIP Infotech
 
-## Tasks Dropdown Menu
+## Tasks Menu
 
 Click on the tasks below to navigate directly to each section:
 
 - [Calculator App 🧮](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%201-%20CALCULATOR) <br>
 - [Tribute Page 💐](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%202-%20Tribute%20page) <br>
 - [TODO App with Redux and React JS 📝](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%203-%20React-Redux-Todo-App)<br>
-- [React + Firebase Authentication App 🔐](#react--firebase-authentication-app)<br>
+- [React + Firebase Authentication App 🔐](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%204-%20React_Firebase_Auth)<br>
 
 
 ## 🧮 Calculator App
@@ -76,10 +76,8 @@ This repository contains the code for a **Todo App** built using **React** and *
    ```bash
    npm start
    ```
-4. View it live at [http://localhost:3000](http://localhost:3000).
+4. View it at [http://localhost:3000](http://localhost:3000).
 
-### 🌐 Demo Link
-Experience the app live: [Todo App Demo](https://react-redux-todo-app-lac.vercel.app/)
 
 ---
 
@@ -114,14 +112,15 @@ A simple authentication app using **React** and **Firebase** to demonstrate user
    npm start
    ```
 
+6. View it at [http://localhost:3000](http://localhost:3000).
 ---
 
 ## Conclusion
 
-These tasks have provided invaluable experience in web development and have enhanced my skills in various technologies. I look forward to continuing my learning journey at OIBSIP Infotech!
+These tasks have provided invaluable experience in web development and have enhanced my skills in various technologies. 
 
 
 
-##Keep Coding! 💪✨
+## Keep Coding! 💪✨
 
 

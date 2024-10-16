@@ -23,7 +23,7 @@ This repository contains the code for a **Todo App** built using **React** and *
 To get started with the project, clone this repository:
 
 ```bash
-git clone https://github.com/sahilbambarkar/todo-app.git
+git clone https://github.com/sahilbambarkar/OIBSIP.git
 cd todo-app
 ```
 
@@ -51,7 +51,7 @@ The page will reload if you make edits. You will also see any lint errors in the
 
 ## 🌐 View Demo
 
-Experience the app live: [Todo App Demo](https://react-redux-todo-app-lac.vercel.app/)
+Experience the app live: [Todo App Demo](https://todo-app-three-rosy-16.vercel.app/)
 
 
 Feel free to contribute or reach out if you have any questions! Happy coding! 🎉

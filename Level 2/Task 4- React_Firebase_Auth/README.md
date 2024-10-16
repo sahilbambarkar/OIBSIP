@@ -26,11 +26,13 @@ A simple authentication app using **React** and **Firebase** to demonstrate user
 ```bash
   npm install
 ```
+
 3. **Firebase Setup**:
 
 🔑 Create a Firebase project from the Firebase Console.
 
 🔑 Enable Email/Password and Google Authentication in Firebase Authentication.
+
 
 4. **Add Firebase Config**: 
 
@@ -41,6 +43,7 @@ A simple authentication app using **React** and **Firebase** to demonstrate user
 npm Start
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 5. **Learnings**:
 

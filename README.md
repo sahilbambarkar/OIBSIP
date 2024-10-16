@@ -18,7 +18,9 @@ A simple calculator app built with HTML, CSS, and JavaScript.
 ### 🎯 Steps to Use:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sahilbambarkar/calculator.git
+   git clone https://github.com/sahilbambarkar/OIBSIP.git
+   cd Task 1- CALCULATOR
+
    ```
 2. Navigate to the directory.
 3. Open `index.html` in your web browser.
@@ -30,12 +32,11 @@ A simple calculator app built with HTML, CSS, and JavaScript.
 
 ## 🌸 Tribute Page 💐
 
-A simple tribute page dedicated to COVID warriors, developed using HTML, CSS, and JavaScript.
+A simple tribute page dedicated to COVID warriors, developed using HTML, CSS.
 
 ### 🛠️ Technologies Used
 - 🌐 HTML5
 - 🎨 CSS3
-- 💻 JavaScript
 
 ### 🎯 Steps to Use:
 1. Clone the repository:

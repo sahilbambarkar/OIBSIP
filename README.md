@@ -1,9 +1,9 @@
 
 # 🌟 Level 2 Internship Tasks at OIBSIP Infotech
 
-## Tasks Menu
+## Tasks Menu ✨
 
-Click on the tasks below to navigate directly to each section:
+  📦 Click on the tasks below to navigate directly to each section:
 
 - [Calculator App 🧮](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%201-%20CALCULATOR) <br>
 - [Tribute Page 💐](https://github.com/sahilbambarkar/OIBSIP/tree/main/Level%202/Task%202-%20Tribute%20page) <br>
@@ -101,7 +101,9 @@ A simple authentication app using **React** and **Firebase** to demonstrate user
 ### 📦 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sahilbambarkar/react-firebase-auth-app.git
+    git clone https://github.com/sahilbambarkar/OIBSIP.git
+    cd Task 4- React_Firebase_Auth
+
    ```
 2. Install dependencies:
    ```bash

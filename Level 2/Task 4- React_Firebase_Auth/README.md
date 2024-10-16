@@ -48,7 +48,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 📖Creating protected routes to restrict access based on user authentication.
 
 
-6. ## 🌐 View Demo
+ ## 🌐 View Demo
 
 Experience the app live: [Secure Authentication app Demo](https://secure-auth-one.vercel.app/)
 

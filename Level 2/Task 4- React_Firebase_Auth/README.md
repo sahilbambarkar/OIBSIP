@@ -50,7 +50,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 6. ## 🌐 View Demo
 
-Experience the app live: [Todo App Demo](https://secure-auth-one.vercel.app/)
+Experience the app live: [Secure Authentication app Demo](https://secure-auth-one.vercel.app/)
 
 
 

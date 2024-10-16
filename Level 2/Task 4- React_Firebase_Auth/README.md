@@ -48,11 +48,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 📖Creating protected routes to restrict access based on user authentication.
 
 
-6. **Deployment**:
-Vercel: Deploy your React application to Vercel for easy hosting and automatic deployments.
+6. ## 🌐 View Demo
 
-
-<h2>Live Demo:</h2> 
+Experience the app live: [Todo App Demo](https://secure-auth-one.vercel.app/)
 
 
 
